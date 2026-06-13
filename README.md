@@ -1,5 +1,5 @@
-<<<<<<< HEAD
-# dw3-react-nextjs
+
+
 Aulas de DW3
 =======
 # dw3-react-nextjs
