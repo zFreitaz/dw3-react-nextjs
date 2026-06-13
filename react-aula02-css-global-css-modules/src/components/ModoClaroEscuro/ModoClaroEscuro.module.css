@@ -1,0 +1,17 @@
+.luz {
+    width: 100px;
+    height: 100px;
+    background-color: blue;
+}
+
+.branco {
+    background-color: white;
+}
+
+.preto {
+    background-color: black;
+}
+
+.cinza {
+    background-color: gray;
+}
